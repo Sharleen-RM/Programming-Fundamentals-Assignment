@@ -18,10 +18,11 @@ g++ main.cpp folder1\code.cpp folder2\code.cpp ......
 
 ## User Manual
 
-1. To start the game, click on the Run button.
-2. The game will display the default game settings to the player which consists of the number of rows, columns and zombies in the game.
-3. If the player chooses to remain the default game settings they can simply type 'N' or 'n' into the space provided. Then, the default gameboard will be displayed.
-4. However, if the player chooses to change the default game settings, they simply have to type 'Y' or 'y' into the space provided. This is where the game allows the player to choose the number of rows, columns and aliens of their choice. After keying in their choices, the gameboard of their choice will be displayed to them. 
+The board is initialised with characters and objects before the game begins. Zombies and the other game objects are distributed randomly over the board, whereas Alien always starts in the centre. The programme needs to make sure the characters don't overlap each other.
+
+Throughout the game, Alien and Zombie takes turn to act, with the Alien always taking the first turn. At every turn, the board is displayed, the life and attack of both characters are updated, and messages explaining what happens at each step are showed to keep players informed about the game’s progress. 
+
+The game ends when either Alien or Zombie is defeated. The player can choose to play again, and if they  do, the game will restart with the board reinitialized and the characters’ life and attack reset to their  initial values. 
 
 ## Progress Log
 
