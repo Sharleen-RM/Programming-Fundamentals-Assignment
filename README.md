@@ -1,6 +1,6 @@
 # Alien vs. Zombie
 
-Alien vs. Zombies is a game about the life and death battle between two natural enemies: Aliens and Zombies.
+In this turn-based combat game called Alien vs. Zombie, the player controls an alien who must kill hordes of zombies. The player can alter the game's dimensions beforehand, such as the size of the game board and the number of zombies. Moreover, the player has the option of loading and saving games into files.
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
