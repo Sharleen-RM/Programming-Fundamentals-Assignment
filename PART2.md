@@ -2,24 +2,23 @@
 
 ## Video Demo
 
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
+Please provide the YouTube link to your [Video Demo]([https://youtube.com](https://youtu.be/wwmyfDmR-_0)).
 
 ## Minimum Requirements
 
 ### Completed
 
-List all the features completed.
-
-1. Cool Feature #1
-2. Cool Feature #2
-3. *add more*
+1. Game Board
+2. Attributes
+3. Multiple Zombies
 
 ### To Do
 
-List all the features not yet done. Remove this section if there is no incomplete requirements.
-
-1. Cool Feature #1
-2. *add more*
+1. Movement and Attack 
+2. Game Objects 
+3. Game Controls 
+4. Saving and Loading Game File 
+5. Additional Features
 
 ## Additional Features
 
@@ -27,25 +26,20 @@ Describe the additional features that has been implemented.
 
 ## Contributions
 
-List down the contribution of each group members.
+### Sharleen Ravi Mahendra
 
-For example:
+1. Worked as a group to randomly generate the Game Board.
+2. Completed the Attributes.
+3. Completed the Multiple Zombies.
 
-### Tony Stark
+### Nor Aliah Syuhaidah binti Sharuddin
 
-1. Randomly generate game board.
-2. *add more*
+1. Worked as a group to randomly generate the game board.
 
-### Steve Rogers
+### Nur Farah Nabila binti Ramzairi
 
-1. Zombie movement and attack behaviour.
-2. *add more*
-
-### Dr. Strange
-
-1. Implement all game objects.
-2. *add more*
+1. Worked as a group to randomly generate the game board.
 
 ## Problems Encountered & Solutions
 
-Describe the problems encountered and provide the solutions / plan for the solutions.
+Our group experienced some problems when trying to display the Game Objects. Hence, we were not able to continue to code the rest of the game. We plan on asking our classmates and lecturers for their guidance as well as doing some of our own research in solving this problem.
