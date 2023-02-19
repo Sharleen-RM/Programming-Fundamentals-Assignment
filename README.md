@@ -4,7 +4,7 @@ In this turn-based combat game called Alien vs. Zombie, the player controls an a
 
 You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
 
-Please provide the YouTube link to your [Video Demo](https://youtu.be/HihI1mSr6xI).
+Please provide the YouTube link to your [Video Demo]([https://youtu.be/HihI1mSr6xI](https://youtu.be/wwmyfDmR-_0)).
 
 ## Compilation Instructions
 
@@ -30,8 +30,6 @@ The game ends when either Alien or Zombie is defeated. The player can choose to 
 - [Part 2](PART2.md)
 
 ## Contributors
-
-Please replace the following with your group members' names. 
 
 - Sharleen Ravi Mahendra
 - Nor Aliah Syuhaidah binti Sharuddin
