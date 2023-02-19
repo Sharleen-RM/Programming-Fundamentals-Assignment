@@ -8,13 +8,9 @@ Please provide the YouTube link to your [Video Demo](https://youtu.be/HihI1mSr6x
 
 ### Completed
 
-List all the features completed.
-
 1. Game Board
 
 ### To Do
-
-List all the features not yet done. Remove this section if there is no incomplete requirements.
 
 1. Game Characters
 2. Game Objects
@@ -26,10 +22,6 @@ List all the features not yet done. Remove this section if there is no incomplet
 Describe the additional features that has been implemented.
 
 ## Contributions
-
-List down the contribution of each group members.
-
-For example:
 
 ### Sharleen Ravi Mahendra
 
